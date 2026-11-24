@@ -4,10 +4,8 @@ Free, public resources from **The Exploit HQ** — *cyber threat intelligence in
 
 ## Available files
 
-- **`KEV-Patch-Priority-Playbook.pdf`** — a 15-minute weekly workflow to triage the
-  vulnerabilities attackers are actively exploiting (CISA KEV catalog): a priority rubric,
-  a "usual suspects" watch-list, and a printable tracker. The free companion to the
-  **Weekly KEV Brief** newsletter.
+- **`KEV-Patch-Priority-Playbook.pdf`** — a 15-minute weekly routine for prioritizing patches from the CISA KEV catalog, with a scoring rubric, watchlist, and printable tracker.
+- **`Nmap-Beginner-Cheat-Sheet.pdf`** — a three-page reference for the free Nmap course, with a defender’s checklist and bonus firewall and IDS checks for authorized labs.
 
 ## Links
 
